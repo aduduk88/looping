@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # === KONFIGURASI ===
-VIDEO="$HOME/remix.mp4"                  # File video lokal Termux
+VIDEO="$HOME/looping/remix.mp4"                  # File video lokal Termux
 LOGFILE="$HOME/ytstream.log"                    # File log
 
 # stream live YouTube
