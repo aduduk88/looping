@@ -5,8 +5,8 @@ VIDEO="$HOME/looping/remix.mp4"                  # File video lokal Termux
 LOGFILE="$HOME/ytstream.log"                    # File log
 
 # stream live YouTube
-STREAM_KEY="vta0-jtc0-k6zt-rt11-634q"           # akun 1
-live="qdpv-m6dc-8k6c-r2zr-8c2j"                 # akun 2
+STREAM_KEY="vta0-jtc0-k6zt-rt11-634q"           # KEYYOUTUBE
+live="qdpv-m6dc-8k6c-r2zr-8c2j"                 # live
 
 # Gabungan RTMP dengan tag [f=flv]
 YOUTUBE_URL="tee:[f=flv]rtmp://a.rtmp.youtube.com/live2/$STREAM_KEY|[f=flv]rtmp://a.rtmp.youtube.com/live2/$live"
